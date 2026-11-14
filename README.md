@@ -116,7 +116,6 @@ Seuils du sujet : < 2 000 (100 nombres) / < 12 000 (500 nombres).
 - [Man pages C](https://www.man7.org/linux/man-pages/) — référence des fonctions libc
 - [cppreference.com](https://en.cppreference.com/w/c) — documentation C complète
 - [Valgrind](https://valgrind.org/docs/manual/quick-start.html) — détection des fuites mémoire
-- [La Norme 42](https://cdn.intra.42.fr/pdf/pdf/960/norme.en.pdf) — règles de codage
 - [Radix Sort — Wikipedia](https://fr.wikipedia.org/wiki/Tri_par_base)
 - [Les algorithmes de tri](https://interstices.info/les-algorithmes-de-tri/)
 
@@ -233,7 +232,6 @@ Subject requirements: <2000 (100 nums) / <12000 (500 nums) to pass, <700 / <5500
 - [Radix Sort — Wikipedia](https://en.wikipedia.org/wiki/Radix_sort)
 - [Sorting Algorithms Visualizer](https://visualgo.net/en/sorting)
 - [Push Swap Visualizer](https://github.com/o-reo/push_swap_visualizer)
-- Donald Knuth, *The Art of Computer Programming*, Vol. 3: Sorting and Searching
 ### AI usage
 
 Claude (Anthropic) was used throughout this project for:
