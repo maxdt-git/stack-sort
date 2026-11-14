@@ -1,8 +1,8 @@
-# Push_swap
+# Stack Sort
 
 ## Description
 
-Push_swap est un projet de tri algorithmique : à partir d'une pile d'entiers, le programme doit afficher la séquence d'opérations la plus courte possible pour trier la pile A dans l'ordre croissant (le plus petit au sommet), en utilisant uniquement deux piles (A et B) et un ensemble limité de 11 opérations.
+Ce projet est un exercice de tri algorithmique : à partir d'une pile d'entiers, le programme doit afficher la séquence d'opérations la plus courte possible pour trier la pile A dans l'ordre croissant (le plus petit au sommet), en utilisant uniquement deux piles (A et B) et un ensemble limité de 11 opérations.
 
 ## Opérations autorisées
 
@@ -128,11 +128,11 @@ Claude (Anthropic) a été utilisé pour :
 - **Débogage** : identification des segfaults (ft_lstclear avec del NULL, variables non initialisées), interprétation des erreurs Valgrind
 - **Revue de code** : conformité norminette, vérification des signatures de fonctions, détection d'erreurs logiques
 Tout le contenu généré par l'IA a été relu, compris et validé avant intégration. Les deux apprenants sont capables d'expliquer et de défendre chaque partie du code implémenté.
-# Push_swap
+# Stack Sort
 
 ## Description
 
-Push_swap is a sorting algorithm project: given a stack of integers, the program must output the shortest possible sequence of operations to sort the stack in ascending order (smallest at top), using only two stacks (A and B) and a limited set of 11 operations.
+This is a sorting algorithm project: given a stack of integers, the program must output the shortest possible sequence of operations to sort the stack in ascending order (smallest at top), using only two stacks (A and B) and a limited set of 11 operations.
 
 This project introduces algorithmic complexity in a concrete way — the choice of algorithm makes a dramatic difference in performance.
 
