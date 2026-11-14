@@ -1,5 +1,3 @@
-*This activity has been created as part of the 42 curriculum by mde-nas.*
-
 ## Description
 
 Libft is a custom C library reimplementing a selection of standard libc functions, along with additional string utilities and linked list manipulation functions. The goal is to understand how these functions work internally and build a reusable foundation for future 42 projects.

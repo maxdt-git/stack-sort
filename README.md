@@ -1,5 +1,3 @@
-*This activity has been created as part of the 42 curriculum by mde-nas, chlepain.*
-
 # Push_swap
 
 ## Description
@@ -131,12 +129,6 @@ Claude (Anthropic) a été utilisé pour :
 - **Débogage** : identification des segfaults (ft_lstclear avec del NULL, variables non initialisées), interprétation des erreurs Valgrind
 - **Revue de code** : conformité norminette, vérification des signatures de fonctions, détection d'erreurs logiques
 Tout le contenu généré par l'IA a été relu, compris et validé avant intégration. Les deux apprenants sont capables d'expliquer et de défendre chaque partie du code implémenté.
-
-
-
-
- *This activity has been created as part of the 42 curriculum by mde-nas, chlepain.*
-
 # Push_swap
 
 ## Description
